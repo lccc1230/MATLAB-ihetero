@@ -5,7 +5,6 @@
 The MATLAB programs and their respective functions are listed below.
 
 
-| :----------------------: |:---------------------------:| :---------------:|
 | MATLAB Program | Function  | Corresponding Figures |
 | :---------------------- |:---------------------------| :-------------|
 | demo_fit_fret_data.m| Analysis of FRET experiment | Figures 2C, S8A |
