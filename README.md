@@ -1,7 +1,6 @@
 # MATLAB-ihetero
       
-      This program is for the analysis of induced hetero-dimerization of two proteins.
-      
+      This program is for the analysis of induced hetero-dimerization of two proteins. 
       It links to paper http://pubs.acs.org/doi/abs/10.1021/acs.analchem.7b01274. 
 
 
